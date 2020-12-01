@@ -14,7 +14,8 @@ Polls is a simple API allowing consumers to view polls and vote in them.
         [
             {
                 {"document":"0001"},
-                {"document":"0002"}
+                {"document":"0002"},
+				{"document":"0003"}
             }
         ]
 
